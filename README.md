@@ -1,5 +1,4 @@
-# Ex.No:04   FIT ARMA MODEL FOR TIME SERIES
-# Date: 
+#  FIT ARMA MODEL FOR TIME SERIES 
 ### AIM:
 To implement ARMA model in python.
 ### ALGORITHM:
@@ -21,8 +20,6 @@ axis limits.
 plot_acf and plot_pacf.
 ### PROGRAM:
 ```py
-### Name : Kavinraja D
-### Regno: 212222240047
 import numpy as np
 import matplotlib.pyplot as plt
 from statsmodels.tsa.arima_process import ArmaProcess
@@ -79,4 +76,4 @@ plt.show()
 ![output](./out/o4.png)
 
 ### RESULT:
-Thus, a python program is created to fir ARMA Model successfully.
+Thus, a python program is created to fit ARMA Model successfully.
